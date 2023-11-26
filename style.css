@@ -6,6 +6,7 @@
 .container{
     height:100vh;
     background-image: url("./halftone-background-with-circles_23-2148907689.avif");
+    background-size: cover;
     display: flex;
     justify-content: center;
     flex-direction: column;
